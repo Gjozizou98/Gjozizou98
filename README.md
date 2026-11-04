@@ -18,7 +18,7 @@ I build custom tools, study low-level network protocols, and document my path in
 | Project | What it proves |
 | :--- | :--- |
 | **[offensive-python-lab](https://github.com/Gjozizou98/offensive-python-lab)** | Custom Python tools, low-level socket programming, robust error handling (`try-except`), and custom HTTP payload transmission. |
-| *(Prossimo progetto)* | *In arrivo...* |
+| **[nis2-incident-notifier](https://github.com/Gjozizou98/nis2-incident-notifier)** | Java-based application for security incident notification and compliance tracking aligned with NIS2 standards. |
 | *(Prossimo progetto)* | *In arrivo...* |
 
 ---
