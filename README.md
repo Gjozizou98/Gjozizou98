@@ -1,4 +1,4 @@
-### Hi, I'm Gjo 👋
+### Hi, I'm Giovanni 👋
 
 **Aspiring Graduate Security Engineer | Focused on Offensive Security, Ethical Hacking, & Python Automation**
 
