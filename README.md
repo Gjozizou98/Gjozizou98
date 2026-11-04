@@ -7,9 +7,10 @@ I build custom tools, study low-level network protocols, and document my path in
 ---
 
 ### 🛠️ What I Work With
-* **Languages:** Python, Bash
-* **Core Skills:** Network Security, TCP Sockets, Ethical Hacking, Burp Suite, Web App Vulnerabilities
+* **Languages:** Python, Java, Bash
+* **Core Skills:** Network Security, Service Enumeration,  CVE & Vulnerability Analysis, TCP Sockets, Ethical Hacking, Burp Suite, Web App Vulnerabilities
 * **Environment:** Kali Linux
+* **Security & Pentesting Tools:** Nmap, Searchsploit, Gobuster, Burp Suite, Metasploit, Wireshark
 
 ---
 
