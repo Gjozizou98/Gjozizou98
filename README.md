@@ -7,7 +7,7 @@ I perform structured penetration testing, build custom security tools, analyze n
 ---
 
 ### 🛠️ What I Work With
-* **Languages:** Python, Java, Bash
+* **Languages:** Python, Bash
 * **Core Skills:** Network Security, Service Enumeration,  CVE & Vulnerability Analysis, TCP Sockets, Ethical Hacking, Burp Suite, Web App Vulnerabilities
 * **Environment:** Kali Linux
 * **Security & Pentesting Tools:** Nmap, Searchsploit, Gobuster, Burp Suite, Metasploit, Wireshark
