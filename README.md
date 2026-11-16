@@ -1,6 +1,6 @@
 ### Hi, I'm Giovanni 👋
 
-**Junior Penetration Tester | Focused on Offensive Security, Ethical Hacking, & Python Automation**
+**Junior Penetration Tester**
 
 I perform structured penetration testing, build custom security tools, analyze network protocols, and document findings through detailed technical reports.
 
