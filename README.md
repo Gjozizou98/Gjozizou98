@@ -20,7 +20,7 @@ I perform structured penetration testing, build custom security tools, analyze n
 | :--- | :--- |
 | **[offensive-python-lab](https://github.com/Gjozizou98/offensive-python-lab)** | Custom Python tools, low-level socket programming, robust error handling (`try-except`), and custom HTTP payload transmission. |
 | **[nis2-incident-notifier](https://github.com/Gjozizou98/nis2-incident-notifier)** | AI-assisted Java application for security incident notification and compliance tracking aligned with NIS2 standards. |
-| **[htb-season-labs](https://github.com/Gjozizou98/htb-season-labs)** | Methodological write-ups & attack chain analysis for HTB Season & Easy-Medium-difficulty machines (Web exploits, AD, PrivEsc). |
+| **[htb-season-labs](https://github.com/Gjozizou98/htb-season-labs)** | Methodological write-ups & attack chain analysis for HTB Season & Easy–Medium machines (Linux & Windows): recon, web & service exploitation, privilege escalation. |
 
 ---
 <!--
